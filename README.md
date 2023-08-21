@@ -45,10 +45,10 @@ extra - 获取更多功能
 
 ```
 # 拉取仓库代码
-git clone https://github.com/zhangyile/telegram-wechat.git
+git clone https://github.com/chenqianlove2/telegram-we.git
 
 # 修改 config.py 文件，填入 Token 和 ID
-cd telegram-wechat && vi config.py
+cd telegram-we && vi config.py
 
 # 启动服务
 docker compose up -d 
